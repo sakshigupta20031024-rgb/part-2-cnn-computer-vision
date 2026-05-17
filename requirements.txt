@@ -1,0 +1,15 @@
+Task 7:
+
+This type of computer vision solution can be useful in the manufacturing industry.
+
+Companies can use cameras and AI models to check products automatically for defects like scratches, dents, or stains.
+
+Instead of workers checking every product manually, the CNN model can quickly identify damaged items from images.
+
+This helps:
+- save time
+- reduce human errors
+- improve product quality
+- increase production efficiency
+
+For example, a mobile phone factory could use this system to detect scratches on phone screens before packaging and delivery.
